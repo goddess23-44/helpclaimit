@@ -86,9 +86,9 @@ $(document).ready(function () {
 		const myForm = event.target;
 		const formData = new FormData(myForm);
 
-		formData.append('service_id', 'service_4gs4ds7');
-		formData.append('template_id', 'template_c1l3okj');
-		formData.append('user_id', 'qjimVcLBzj0f8pWh3');
+		formData.append('service_id', 'service_k4bfjor');
+		formData.append('template_id', 'template_faiilrn');
+		formData.append('user_id', 'zChp8Cyi96XpveUij');
 
 		$.ajax('https://api.emailjs.com/api/v1.0/email/send-form', {
 			type: 'POST',
@@ -116,9 +116,9 @@ $(document).ready(function () {
 		const myForm = event.target;
 		const formData = new FormData(myForm);
 
-		formData.append('service_id', 'service_4gs4ds7');
-		formData.append('template_id', 'template_c1l3okj');
-		formData.append('user_id', 'qjimVcLBzj0f8pWh3');
+		formData.append('service_id', 'service_k4bfjor');
+		formData.append('template_id', 'template_faiilrn');
+		formData.append('user_id', 'zChp8Cyi96XpveUij');
 
 		$.ajax('https://api.emailjs.com/api/v1.0/email/send-form', {
 			type: 'POST',
@@ -147,9 +147,9 @@ $(document).ready(function () {
 		const myForm = event.target;
 		const formData = new FormData(myForm);
 
-		formData.append('service_id', 'service_4gs4ds7');
-		formData.append('template_id', 'template_c1l3okj');
-		formData.append('user_id', 'qjimVcLBzj0f8pWh3');
+		formData.append('service_id', 'service_k4bfjor');
+		formData.append('template_id', 'template_faiilrn');
+		formData.append('user_id', 'zChp8Cyi96XpveUij');
 
 		$.ajax('https://api.emailjs.com/api/v1.0/email/send-form', {
 			type: 'POST',
